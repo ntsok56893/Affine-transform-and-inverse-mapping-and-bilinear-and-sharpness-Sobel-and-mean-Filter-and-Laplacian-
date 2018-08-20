@@ -1,0 +1,47 @@
+﻿  MyForm.cpp
+C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(176): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(177): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(178): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(179): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(183): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(185): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(187): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(189): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(197): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(198): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(200): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(201): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(220): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(221): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(229): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(232): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(235): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(268): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(271): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(281): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(284): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(300): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(301): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(309): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(319): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\vs_2015_projects\affine transform and inverse mapping and bilinear and sharpness(sobel and mean filter and laplacian)\ip_hw2and3\ip_hw2and3\MyForm.h(322): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+c:\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  IP_HW2and3.vcxproj -> D:\VS_2015_Projects\Affine transform and inverse mapping and bilinear and sharpness(Sobel and mean Filter and Laplacian)\IP_HW2and3\x64\Release\IP_HW2and3.exe
+  IP_HW2and3.vcxproj -> D:\VS_2015_Projects\Affine transform and inverse mapping and bilinear and sharpness(Sobel and mean Filter and Laplacian)\IP_HW2and3\x64\Release\IP_HW2and3.pdb (Full PDB)
